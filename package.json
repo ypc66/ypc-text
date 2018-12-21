@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "leancloud-storage": "^3.6.0",
+    "leancloud-storage": "^3.11.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
